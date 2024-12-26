@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import Accommodate from './chepter_07/Accommodate';
+import Accommodate from '../../week 8/chepter_07/Accommodate';
 
 ReactDOM.render(
     <React.StrictMode>
