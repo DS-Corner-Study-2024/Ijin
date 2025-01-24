@@ -1,0 +1,11 @@
+{
+  "name": "coner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DS-Corner-Study-2024/Ijin.git",
+  "author": "leewatertrue <leewatertrue@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}

@@ -1,0 +1,9 @@
+8
+54C:\Users\lks12\Desktop\coner\week14\vanilla-redux\dist133821638116700977 1
+76C:\Users\lks12\Desktop\coner\week14\vanilla-redux\dist\index.c36f364e.js.map133821638116634970 0
+72C:\Users\lks12\Desktop\coner\week14\vanilla-redux\dist\index.c36f364e.js133821638116624953 0
+60C:\Users\lks12\Desktop\coner\week14\vanilla-redux\index.html133821637311045713 0
+65C:\Users\lks12\Desktop\coner\week14\vanilla-redux\dist\index.html133821638116061789 0
+58C:\Users\lks12\Desktop\coner\week14\vanilla-redux\index.js133821633466381677 0
+84C:\Users\lks12\Desktop\coner\week14\vanilla-redux\dist\vanilla-redux.3464ddca.js.map133821638116690971 0
+80C:\Users\lks12\Desktop\coner\week14\vanilla-redux\dist\vanilla-redux.3464ddca.js133821638116670907 0
